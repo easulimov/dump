@@ -1,5 +1,5 @@
 #!groovy
-// Check ub1 properties
+// Check f23407b7aa1c.mylabserver.com properties
 properties([disableConcurrentBuilds()])
 
 pipeline {
